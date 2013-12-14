@@ -1,3 +1,28 @@
-Proposed operations policies:
+1. Website Linking Policy
 
-1. The foundation only links to websites on Mastercoin Foundation web assets when the administrator of the URL is a foundation staff or board member or service provider, when the owner of the website is a member of the Mastercoin Foundation, or when the link refers to to media and press pertaining to Mastercoin Foundation.  In the case of online communities and forums, the community or forum has at least one administrative member who is also a staff member, board member or service provider to the Mastercoin Foundation.
+A. The foundation only links to websites on Mastercoin Foundation web assets when the administrator of the URL is a foundation staff or board member or service provider, when the owner of the website is a member of the Mastercoin Foundation, or when the link refers to to media and press pertaining to Mastercoin Foundation.  In the case of online communities and forums, the community or forum has at least one administrative member who is also a staff member, board member or service provider to the Mastercoin Foundation.
+
+2. Policies for Spending Mastercoin Foundation Funds
+
+A. All bounties should have something like an estimate of man hours required, cost established based upon this metric, the metric we are trying to effect and to what degree we predict prior to issuing a bounty. This clearly won't be a perfect process but we probably should be doing this level of work so we can judge the results after the fact to create some accountability.
+
+B. Spending Authorization Levels and Details:
+1 Board member may spend up to $100 without consulting anybody
+2 Board members may agree to spend up to $500, as long as there are no objections raised
+3 Board members may agree to spend up to $1000, as long as there are no objections raised
+4 Board members may agree to spend up to $2000, as long as there are no objections raised
+5 Board members may agree to spend up to $5000, as long as there are no objections raised
+6 Board members may agree to spend up to $20000, as long as there are no objections raised
+The board must vote unanimously to spend more than $20000
+The board may approve a member (such as the Executive Director) to have a larger pool of discretionary funds by unanimous vote
+If an objection is raised, time must be allowed for discussion, and all members must vote if there is still disagreement after discussion. Under no conditions will more than $20k be spent over the objection of any board member.
+A unanimous vote is required to change these rules, or to change the composition of the board
+ALL expenditures must be itemized in our public-facing budget spreadsheet (or equivalent)
+
+C. The Executive Director has been authorized to spend $10,000 USD in project funds on a rolling basis without needing board approval (as always all expenses much be public and recorded on the expenditure sheet and paid our by J.R. our Treasurer).
+
+D. Role Based Bounties
+1. Anyone can apply openly to a new role based bounty as done with Smart Property Lead.
+2. Pay below market for "role based bounties" as these folks are getting a lot of additional compensation from Dev MSC.
+3. Keep the amount of funds going to "role based" positions to 20% of the total budget, so 80% is going to big coding competitions and the real "meat" of the application's implementation.
+4. Allow developers to take MSC / BTC / USD based on their preferences. They are interchangeable after all.  
