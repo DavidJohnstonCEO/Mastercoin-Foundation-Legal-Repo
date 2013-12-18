@@ -26,3 +26,7 @@ D. Role Based Bounties
 2. Pay below market for "role based bounties" as these folks are getting a lot of additional compensation from Dev MSC.
 3. Keep the amount of funds going to "role based" positions to 20% of the total budget, so 80% is going to big coding competitions and the real "meat" of the application's implementation.
 4. Allow developers to take MSC / BTC / USD based on their preferences. They are interchangeable after all.  
+
+E. Payments
+1. During the day of payment the Mastercoin Foundation staff or board member responcible for making payment shall take the prior day's 3-day daily moving average from a well known Bitcoin exchange (i.e., as of 2013 Mtgox, Bitstamp) to calculate payment when a bounty, award or contract has been denominated in a non-virtual currency (USD, EUR, etc).
+2. If payment cannot be made due to lack of a Bitcoin address from a payee, then calculation shall be made pursuant to Section E paragraph 1, and the funds in BTC shall be set aside until payee has provided a Bitcoin address.
